@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, meu nome é Gabriel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=droyendev&label=Profile%20views&color=0e75b6&style=flat" alt="droyendev" /> </p>
 
-- 📫 Como chegar até mim **gabriel.chaves2004@hotmail.com**
-
 <p align="left">
 </p>
 
