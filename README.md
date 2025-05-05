@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Gabriel!
 
-<!--
-**GabrielChaves1/GabrielChaves1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a software developer from Brazil, passionate about building robust, scalable, and user-friendly applications. I enjoy working with Go, cloud technologies, and open-source projects.
 
-Here are some ideas to get you started:
+- 💻 Currently working with: Go, Javascript and cloud platforms
+- 🌱 Always learning new technologies and best practices
+- 🚀 Interested in backend development, distributed systems, and DevOps
+- 🤝 Open to collaboration on open-source and innovative projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/gabriel-chaves-82b573213/)
+
+Feel free to check out my repositories and reach out if you want to connect or collaborate!
+
+---
+
+*Thank you for visiting my profile!*
